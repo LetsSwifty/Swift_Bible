@@ -10,7 +10,7 @@
 - [lii0730](https://github.com/lii0730)
 - [mingging](https://github.com/mingging)
 - [heejin342](https://github.com/heejin342)
-
+- [yoogail105](https://github.com/yoogail105)
 ## 개인 내용 정리 (노션, 레포)
 
 
