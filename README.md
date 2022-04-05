@@ -12,7 +12,7 @@
 - [heejin342](https://github.com/heejin342)
 
 ## 개인 내용 정리 (노션, 레포)
-
+- [JINHYUNGP/Notion](https://private-tarragon-28f.notion.site/Swift-4745b4d856cc4a38b2390f137c129246)
 
 ## 스터디 규칙
 - 순서는 '꼼꼼한 재은씨의 Swift: 기본편' 책을 따릅니다.
