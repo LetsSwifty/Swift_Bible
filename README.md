@@ -1,6 +1,50 @@
 # Swift_Bible
 꼼꼼한 재은씨의 Swift 기본편을 바탕으로한 Swift 문법 스터디
 
+## PR 컨벤션
+### 키워드
+```
+- DOCS : README 수정
+- ADD : 새로운 내용 추가
+- MOD : 이미 추가된 내용 수정
+- DEL : 기존 내용 삭제
+```
+
+### 작성 방법 및 예시
+- 키워드는 위의 제시된 것과 정확히 동일하게 작성합니다.
+- 내용은 짧고 명시적으로 작성합니다.
+- ':'의 앞 뒤로 공백을 하나 둡니다.
+
+```
+// 작성 방법 (내용은 짧고 명시적으로 작성)
+[키워드] 파일명 : 내용
+
+// 작성 예시
+[DOCS] README.md : readme 수정
+```
+
+## ISSUE 컨벤션
+### 키워드
+```
+- Swift : Swift 문법 관련 질의
+- iOS : iOS 관련 질의
+- CS : 기타 컴퓨터 사이언스 관련 질의
+- UI : UI와 관련된 질의(AutoLayout, Custom UI, Storyboard ...)
+- ST : Small Talk의 줄임말. 기타 자유롭게 하고 싶은 질문
+```
+
+### 작성 방법 및 예시
+- 키워드는 위의 제시된 것과 정확히 동일하게 작성합니다.
+- 내용은 짧고 명시적으로 작성합니다.
+- '|' 과 ':'의 앞 뒤로 공백을 하나 둡니다.
+```
+// 작성 방법
+[키워드] : 내용
+
+// 작성 예시
+[Swift] : Enum의 associate type 관련 질문
+```
+
 ## 참여 인원
 - [keenkim1202](https://github.com/keenkim1202/)
 - [YongHoon](https://github.com/akatcn)
@@ -20,7 +64,7 @@
 - [kangddong](https://www.notion.so/Workspace-60cdccac03ad4deb83a1067577e2cab3)
 - [lii0730](https://github.com/lii0730/Swift_Basic)
 - [mingging](https://mingging.notion.site/Swift-90657d13c64a4ea99d61ef8e12b68ca4)
-- [heejin342]
+- [heejin342](https://www.notion.so/39c53bce4633453da9db29f01d8a04ce)
 - [yoogail105](https://github.com/yoogail105/KkokkoSwift#-꼼꼼한-재은씨의-swift-기본편)
 
 ## 스터디 규칙
