@@ -18,7 +18,7 @@
 - [JINHYUNGP]
 - [kangddong](https://www.notion.so/Workspace-60cdccac03ad4deb83a1067577e2cab3)
 - [lii0730](https://github.com/lii0730/Swift_Basic)
-- [mingging]
+- [mingging](https://mingging.notion.site/Swift-90657d13c64a4ea99d61ef8e12b68ca4)
 - [heejin342]
 
 ## 스터디 규칙
