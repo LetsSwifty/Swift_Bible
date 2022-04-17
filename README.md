@@ -6,13 +6,20 @@
 - [YongHoon](https://github.com/akatcn)
 - [YeJinHong](https://github.com/florence96)
 - [JINHYUNGP](https://github.com/JINHYUNGP)
-- [kanddong](https://github.com/kanddong)
+- [kangddong](https://github.com/kanddong)
 - [lii0730](https://github.com/lii0730)
 - [mingging](https://github.com/mingging)
 - [heejin342](https://github.com/heejin342)
-
+- [yoogail105](https://github.com/yoogail105)
 ## 개인 내용 정리 (노션, 레포)
-- [JINHYUNGP/Notion](https://private-tarragon-28f.notion.site/Swift-4745b4d856cc4a38b2390f137c129246)
+- [keenkim1202]
+- [YongHoon]
+- [YeJinHong]
+- [JINHYUNGPNotion](https://private-tarragon-28f.notion.site/Swift-4745b4d856cc4a38b2390f137c129246)
+- [kangddong](https://www.notion.so/Workspace-60cdccac03ad4deb83a1067577e2cab3)
+- [lii0730](https://github.com/lii0730/Swift_Basic)
+- [mingging](https://mingging.notion.site/Swift-90657d13c64a4ea99d61ef8e12b68ca4)
+- [heejin342]
 
 ## 스터디 규칙
 - 순서는 '꼼꼼한 재은씨의 Swift: 기본편' 책을 따릅니다.
