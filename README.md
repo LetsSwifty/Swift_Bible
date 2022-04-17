@@ -17,7 +17,7 @@
 - [YeJinHong]
 - [JINHYUNGP]
 - [kangddong](https://www.notion.so/Workspace-60cdccac03ad4deb83a1067577e2cab3)
-- [lii0730]
+- [lii0730](https://github.com/lii0730/Swift_Basic)
 - [mingging]
 - [heejin342]
 
