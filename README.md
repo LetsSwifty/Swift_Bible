@@ -1,6 +1,28 @@
 # Swift_Bible
 꼼꼼한 재은씨의 Swift 기본편을 바탕으로한 Swift 문법 스터디
 
+## 목차
+- [목차로 가기](Contents/README.md)
+
+## 스터디원
+  
+||닉네임|깃헙|정리 링크|기타|
+|:---:|:---:|:---:|:---:|---|  
+|1|[keenkim1202](https://github.com/keenkim1202/)|[keenkim1202](https://github.com/keenkim1202/KEENs_TIL/tree/main/Swift)|||
+|2|[YongHoon](https://github.com/akatcn)         |[YongHoon](https://yonghooon.notion.site/5f8565e3f0324f7b95ffc9cfef50abc5)|||
+|3|[YeJinHong](https://github.com/florence96)    |[YeJinHong](https://great-jodhpur-c7a.notion.site/c46e3848e4fa4302b44d23ec3cf1f728?v=98299b87b52448a38cc31cf377d87924)|||
+|4|[JINHYUNGP](https://github.com/JINHYUNGP)     |[JINHYUNGP](https://www.notion.so/cb544ad529b14815921ef25e9d687fe3)|||
+|5|[kangddong](https://github.com/kanddong)      |[kangddong](https://www.notion.so/Workspace-60cdccac03ad4deb83a1067577e2cab3)|||
+|6|[mingging](https://github.com/mingging)       |[mingging](https://mingging.notion.site/Swift-90657d13c64a4ea99d61ef8e12b68ca4)|||
+|7|[heejin342](https://github.com/heejin342)     |[heejin342](https://www.notion.so/39c53bce4633453da9db29f01d8a04ce)|||
+|8|[yoogail105](https://github.com/yoogail105)   |[yoogail105](https://github.com/yoogail105/KkokkoSwift#-꼼꼼한-재은씨의-swift-기본편)|||
+|9|[lii0730](https://github.com/lii0730)         |[lii0730](https://github.com/lii0730/Swift_Basic)|||
+  
+<details> 
+  
+  <summary> 컨벤션 보기 </summary>  
+   
+  
 ## PR 컨벤션
 ### 키워드
 ```
@@ -44,28 +66,9 @@
 // 작성 예시
 [Swift] : Enum의 associate type 관련 질문
 ```
+  
+</details>
 
-## 참여 인원
-- [keenkim1202](https://github.com/keenkim1202/)
-- [YongHoon](https://github.com/akatcn)
-- [YeJinHong](https://github.com/florence96)
-- [JINHYUNGP](https://github.com/JINHYUNGP)
-- [kangddong](https://github.com/kanddong)
-- [lii0730](https://github.com/lii0730)
-- [mingging](https://github.com/mingging)
-- [heejin342](https://github.com/heejin342)
-- [yoogail105](https://github.com/yoogail105)
-
-## 개인 내용 정리 (노션, 레포)
-- [keenkim1202](https://github.com/keenkim1202/KEENs_TIL/tree/main/Swift)
-- [YongHoon](https://yonghooon.notion.site/5f8565e3f0324f7b95ffc9cfef50abc5)
-- [YeJinHong](https://great-jodhpur-c7a.notion.site/c46e3848e4fa4302b44d23ec3cf1f728?v=98299b87b52448a38cc31cf377d87924)
-- [JINHYUNGP](https://www.notion.so/cb544ad529b14815921ef25e9d687fe3)
-- [kangddong](https://www.notion.so/Workspace-60cdccac03ad4deb83a1067577e2cab3)
-- [lii0730](https://github.com/lii0730/Swift_Basic)
-- [mingging](https://mingging.notion.site/Swift-90657d13c64a4ea99d61ef8e12b68ca4)
-- [heejin342](https://www.notion.so/39c53bce4633453da9db29f01d8a04ce)
-- [yoogail105](https://github.com/yoogail105/KkokkoSwift#-꼼꼼한-재은씨의-swift-기본편)
 
 ## 스터디 규칙
 - 순서는 '꼼꼼한 재은씨의 Swift: 기본편' 책을 따릅니다.
@@ -73,4 +76,3 @@
 - [매일 공부 현황에 대해 기록](https://ossified-gas-bd2.notion.site/Swify_Bible-f8c4bcd1d6fc4c89a27d81354080a05c)합니다.
 - 책에 나온 내용 기반으로 디테일하게 정리합니다. (각자)
 - 주 1회 온라인으로 모여 공부한 내용에 대해 회고하고 토론합니다.
-
