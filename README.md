@@ -5,7 +5,7 @@
 - [목차로 가기](Contents/README.md)
 
 ## 스터디원
-  
+
 ||닉네임|깃헙|정리 링크|기타|
 |:---:|:---:|:---:|:---:|---|  
 |1|빠각|[keenkim1202](https://github.com/keenkim1202/)|[keenkim1202](https://github.com/keenkim1202/KEENs_TIL/tree/main/Swift)||
@@ -17,12 +17,12 @@
 |7|김희진|[heejin342](https://github.com/heejin342)     |[heejin342](https://www.notion.so/39c53bce4633453da9db29f01d8a04ce)||
 |8|프프|[yoogail105](https://github.com/yoogail105)   |[yoogail105](https://github.com/yoogail105/KkokkoSwift#-꼼꼼한-재은씨의-swift-기본편)||
 |9|서윗|[lii0730](https://github.com/lii0730)         |[lii0730](https://github.com/lii0730/Swift_Basic)||
-  
+
 <details> 
-  
+
   <summary> 컨벤션 보기 </summary>  
-   
-  
+
+
 ## PR 컨벤션
 ### 키워드
 ```
@@ -66,7 +66,7 @@
 // 작성 예시
 [Swift] : Enum의 associate type 관련 질문
 ```
-  
+
 </details>
 
 
