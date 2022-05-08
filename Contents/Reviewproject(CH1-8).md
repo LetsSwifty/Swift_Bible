@@ -1,8 +1,9 @@
-# CH 8
+# Reviewproject(CH1-8)
 ## Info
-- 날짜: 2022.4.30
+- 날짜: 2022.5.8
 
 ## 내용
+### Project Review
 ### 이슈에 대한 토론
 <details>
   <summary> Prototype Cell Interface Builder 에서 셀 높이 설정시 적용 안되는 버그</summary>
@@ -38,5 +39,3 @@
     5. 목록페이지에서는 마이페이지에 선택된 도서를 확인할 수 있다.
   
 </details>
-
-
