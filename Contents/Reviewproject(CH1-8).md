@@ -3,31 +3,57 @@
 - 날짜: 2022.5.8
 
 ## 내용
+### Project Link
+
+||닉네임|프로젝트 링크|
+|:---:|:---:|:---:|
+|1|빠각|https://github.com/LetsSwifty/keenkim_projects|
+|2|미시시피|https://github.com/LetsSwifty/YongHoon_projects|
+|3|메론|https://github.com/LetsSwifty/florence96_projects|
+|4|jinjin|https://github.com/LetsSwifty/JINHYUNGP_projects|
+|5|Rx|https://github.com/LetsSwifty/kangddong_projects|
+|6|밍|https://github.com/LetsSwifty/mingging_project|
+|7|김희진|https://github.com/LetsSwifty/heejin_project|
+|8|프프||
+|9|서윗|https://github.com/LetsSwifty/lii0730_projects|
+
 ### Project Review
-### 이슈에 대한 토론
 <details>
-  <summary> Prototype Cell Interface Builder 에서 셀 높이 설정시 적용 안되는 버그</summary>
+  <summary> indexPath의 프로퍼티 row, item 둘의 차이점</summary>
   
-  책에서도 기술되어있지만, Xcode 버그이며 TableView, TableViewCell의 Size Inspector를 통해서 설정을 반복해서하면 해결이된다.
+  내용 작성
 </details>
 
 <details>
-  <summary> tableView.estimatedRowHeight & UITableView.autoDemension 사용에 대한 발표</summary>
-  노션에 정리한 것을 발표했습니다.
+  <summary> 네비게이션 바 사용법</summary>
   
+    ```Swift
+    self.navigationItem.hidesBackButton = true
+    let backButton = UIBarButtonItem(image: UIImage(systemName: "chevron.backward"), style: UIBarButtonItem.Style.done, target: self, action: #selector(backButton(sender:)))
+    self.navigationController?.navigationBar.tintColor = .black
+    self.navigationItem.leftBarButtonItem = backButton
+    ```
+</details>
+
+<details>
+  <summary> UIAlertController에 delegate Pattern을 적용했을 때  tableView에서 reloadData 안되는 이슈</summary>
   
-  [8.5 테이블 뷰의 행 높이를 결정하는 방식](https://www.notion.so/Chapter-8-859d573b4d4c487a861140092a6f3ca9)
+  내용 작성
+</details>
+
+<details>
+  <summary> conovenience init에 대하여</summary>
+
+  내용 작성
 </details>
 
 
-## 전달사항
-### 다음 주 회의 시간
-#### *5월 8일 오전 10시*
-### 챕터 8 이후 개인 프로젝트 아이템 선정
+
+
+### 챕터 9 이후 Project 기능 추가
 <details>
-  <summary> 개인 프로젝트 아이템 선정에 대한 이슈 https://github.com/LetsSwifty/Swift_Bible/issues/18 </summary>
-      [메론] (https://github.com/florence96) 님의 아이템이선정 https://github.com/LetsSwifty/Swift_Bible/issues/18
-  
+  <summary> Project 기능 추가 </summary>
+
 + 주제: 도서 관리 앱
 + 내용: 여러 도서 중 원하는 도서를 마이페이지(즐겨찾기)에 등록할 수 있다.
 + 화면 구성: 도서 목록 / 마이페이지(즐겨찾기)
@@ -37,5 +63,6 @@
     3. 마이페이지에서는 선택된 도서를 확인할 수 있다.
     4. 마이페이지에서는 선택된 도서를 삭제할 수 있다.
     5. 목록페이지에서는 마이페이지에 선택된 도서를 확인할 수 있다.
++ 네이버 오픈 API 활용 : [링크](https://developers.naver.com/docs/search/book/)
   
 </details>
