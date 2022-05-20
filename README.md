@@ -8,7 +8,7 @@
 
 ||닉네임|깃헙|정리 링크|기타|
 |:---:|:---:|:---:|:---:|---|  
-|1|빠각|[keenkim1202](https://github.com/keenkim1202/)|[keenkim1202](https://github.com/keenkim1202/KEENs_TIL/tree/main/Swift)||
+|1|빠각|[keenkim1202](https://github.com/keenkim1202/)|[keenkim1202](https://github.com/keenkim1202/KEENs_TIL/tree/main/Swift)|[블로그](https://nareunhagae.tistory.com/)|
 |2|미시시피|[YongHoon](https://github.com/akatcn)         |[YongHoon](https://yonghooon.notion.site/5f8565e3f0324f7b95ffc9cfef50abc5)||
 |3|메론|[YeJinHong](https://github.com/florence96)    |[YeJinHong](https://great-jodhpur-c7a.notion.site/c46e3848e4fa4302b44d23ec3cf1f728?v=98299b87b52448a38cc31cf377d87924)|||
 |4|jinjin|[JINHYUNGP](https://github.com/JINHYUNGP)     |[JINHYUNGP](https://www.notion.so/cb544ad529b14815921ef25e9d687fe3)||
