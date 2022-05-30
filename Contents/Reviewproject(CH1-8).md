@@ -14,7 +14,7 @@
 |5|Rx|https://github.com/LetsSwifty/kangddong_projects|
 |6|밍|https://github.com/LetsSwifty/mingging_project|
 |7|김희진|https://github.com/LetsSwifty/heejin_project|
-|8|프프||
+|8|프프|https://github.com/LetsSwifty/yoogail105_projects|
 |9|서윗|https://github.com/LetsSwifty/lii0730_projects|
 
 ### Project Review
