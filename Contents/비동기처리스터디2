@@ -1,0 +1,28 @@
+# 비동기 처리 관련 스터디
+
+## 프로젝트 소개 (비동기처리스터디.md)
+- [Unspalsh API](https://unsplash.com/documentation#list-photos)를 사용하여 trending한 이미지를 다운받아 보여주는 앱
+  - API 통신을 비동기적으로 실행하여, 다수의 이미지가 다운로드 되는 순서대로 로드 되도록 한다.
+  - 이미지가 다운로드 중일 때는 placeHolder 이미지를 보여준다.
+  - 스크롤 시, pagination을 구현하여 무한 스크롤이 가능하도록 한다.
+
+## 프로젝트 목적
+- 비동기 처리에 대한 이해도 높이기
+
+## 스터디 날짜 
+- 6/12 (일)
+
+## 스터디 내용
+- 지난 주 비동기스터디(비동기스터디.md) 에 이어서 리뷰를하였다.
+- 동기/비동기 처리에 사용되는 방식 & 라이브러리 사용법 등에 대해 이야기 해본다.
+
+## 리뷰 간 내용
+
+<details> 
+
+  <summary> pagination시 blink 현상 </summary>  
+
+![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/50406861/173366260-224cee66-cd7d-4983-a36a-f9e2dd4ff0c7.gif)
+
+</details>
+
